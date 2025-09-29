@@ -14,7 +14,7 @@ body{
     justify-content: center; 
     align-items: center;
     background: linear-gradient(45deg, #0a0a0a, #3a4452);
-}
+} 
 
 .calculator{
     border: 1px solid #717377;
@@ -62,6 +62,7 @@ button{
 .operator{
     color: #6dee0a;
 }
+
 
 
 
