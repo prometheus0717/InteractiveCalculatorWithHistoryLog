@@ -25,4 +25,4 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/<prometheus0717>/<InteractiveCalculatorWithHistoryLog>.git
-cd <>
+cd <InteractiveCalculatorWithHistoryLog>
