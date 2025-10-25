@@ -14,7 +14,6 @@ A lightweight, responsive, and user-friendly **interactive calculator** built wi
 
 ## 🖼️ Working Screenshots
 
-<img width="1359" height="627" alt="Screenshot 2025-07-31 230318" src="https://github.com/user-attachments/assets/eb6e657d-6fe8-4ce9-8d09-331eb1a0303a" />
 
 <img width="1359" height="610" alt="Screenshot 2025-07-31 230335" src="https://github.com/user-attachments/assets/bae8d70b-f40c-452a-9092-84215c240d78" />
 
