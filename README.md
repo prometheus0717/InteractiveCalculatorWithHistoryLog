@@ -24,5 +24,5 @@ A lightweight, responsive, and user-friendly **interactive calculator** built wi
 Clone the repo:
 
 ```bash
-git clone https://github.com/<prometheus0717>/<InteractiveCalculatorWithHistoryLog>.git
+git clone https://github.com/<prometheus0717>/<>.git
 cd <your-repo-name>
