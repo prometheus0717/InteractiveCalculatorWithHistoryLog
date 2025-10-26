@@ -1,18 +1,24 @@
-<!DOCTYPE html> 
-<html lang="en"> 
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />   
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />   
-    <link rel="stylesheet" href="style.css" />  
-    <title>Calculator - By D Kumar </title>      
-  </head>         
-  <body>       
-    <div class="container">    
-      <div class="calculator">      
-        <input type="text" id="inputBox" placeholder="0" />   
-        <div>  
-          <button class="button operator">AC</button>   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculator - By D Kumar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="calculator">
+      <div class="header">
+        <h2>Calculator</h2>
+        <button id="themeToggle">🌙</button>
+      </div>
+
+      <input type="text" id="inputBox" placeholder="0" readonly />
+
+      <div class="buttons">
+        <div>
+          <button class="button operator">AC</button>
           <button class="button operator">DEL</button>
           <button class="button operator">%</button>
           <button class="button operator">/</button>
@@ -35,7 +41,6 @@
           <button class="button">3</button>
           <button class="button operator">+</button>
         </div>
-
         <div>
           <button class="button">00</button>
           <button class="button">0</button>
@@ -43,64 +48,14 @@
           <button class="button equalBtn">=</button>
         </div>
       </div>
+
+      <div class="history">
+        <h4>History</h4>
+        <ul id="historyList"></ul>
+      </div>
     </div>
+  </div>
 
-    <script src="script.js"></script>
-  </body>
-
+  <script src="script.js"></script>
+</body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
