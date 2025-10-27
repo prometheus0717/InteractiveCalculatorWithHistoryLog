@@ -13,7 +13,7 @@ arr.forEach(button => {
     
         else if(e.target.innerHTML == 'ACT'){ 
             string = ""; 
-            input.value = string;
+            input.value = string; 
         }
         else if(e.target.innerHTML == 'DEL'){
             string = string.substring(0, string.length-1);
@@ -27,6 +27,7 @@ arr.forEach(button => {
     })
 
 })
+
 
 
 
