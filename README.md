@@ -10,7 +10,7 @@ A lightweight, responsive, and user-friendly **interactive calculator** built wi
 - Real-time expression evaluation  
 - Error handling for invalid input / division by zero 
 - Easily extensible for advanced operations
-
+ 
 ## 🖼️ Working Screenshots
 
 
