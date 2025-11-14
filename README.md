@@ -1,4 +1,4 @@
-# Interactive Calculator
+ # Interactive Calculator
 
 A lightweight, responsive, and user-friendly **interactive calculator** built with **HTML**, **CSS**, and **JavaScript**. Ideal for embedding in web pages or using as a standalone utility.  
     
