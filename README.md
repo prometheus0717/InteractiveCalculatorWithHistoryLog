@@ -7,7 +7,7 @@ A lightweight, responsive, and user-friendly **interactive calculator** built wi
 - Keyboard and button input support     
 - Responsive layout (works on mobile & desktop)      
 - Clear / delete functionality    
-- Real-time expression evaluation     
+- Real-time expression evaluation      
 - Error handling for invalid input / division by zero     
 - Easily extensible for advanced operations   
  
